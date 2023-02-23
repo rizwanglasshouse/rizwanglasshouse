@@ -177,10 +177,10 @@ a{
     }
     
     .about-story{
-      font-weight: lighter;
+      font-weight: normal;
       font-size:xx-small;
       font-family: Arial, Helvetica, sans-serif;
-      color: #66a18c;
+      color: #416a59;
     }
     .founder{
       width: 50%;
